@@ -111,10 +111,6 @@
 - a great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the [most important information](http://i.imgur.com/2SEANOJ.png) that I need to show in it
 	- I can then activate Bartender and [start searching](http://i.imgur.com/K2LbGQv.png) for the menu bar item I need all from the keyboard
 
-#### 24. [Ship](https://www.realartists.com/index.html)
-- a really awesome native app that lets me manage my GitHub issues
-- can schedule certain issues [as 'up next'](http://i.imgur.com/sQxx9lj.png) and complete them one by one  
-
 #### 25. [Textual](https://www.codeux.com/textual/) 
 - recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC
 - it also has an awesome [channel search](http://i.imgur.com/jwVCcMb.png) feature that I use a lot
@@ -125,13 +121,6 @@
 #### 27. [Tweetbot](http://tapbots.com/tweetbot/mac/)
 - twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app
 
-#### 28. [YNAB](https://www.youneedabudget.com/) 
-- use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I really recommend you take a look at it even if you are not planning to use the app, I find it really freeing and powerful
-
-#### 29. [Reeder](http://reederapp.com/mac/)
-- wasn't a big user of RSS but with me finding a lot of great blogs out there, I needed a place to keep myself updated on the great content that they will be posting. 
-- Reeder is the best RSS reeder out there that I found
-
 #### 30. [Transmit](https://www.panic.com/transmit/)
 - I often use this app to quickly send files from my local file system to the cloud (either S3 or dropbox) and get a shareable link I can send to people
 - I use [this alfred workflow](https://www.dropbox.com/s/6y1lwy7lq9njdv6/Transmit.alfredworkflow?dl=1) to [quickly open](http://i.imgur.com/RkkcdvA.png) the cloud storage I need
@@ -141,15 +130,8 @@
 - have all my torrents downloaded into their specific folders
 - I also want to set up a seedbox with my raspberry pie in the future as I have a bad tendency of not seeding the torrents that I downloaded
 
-#### 32. [Sketch](https://www.sketchapp.com/) 
-- not very fond of subscription based business models but this app is probably the de facto standard in doing any kind of design work on Mac
-
 #### 33. [Pixelmator](http://www.pixelmator.com/mac/) 
 - probably the best image editor out there on Mac, is packed with very powerful features and is very simple in its UI
-
-#### 34. [Flux](https://justgetflux.com) 
-- a simple utility that makes the screen have nice and warm non blue light emitting colour in the evening
-	- as of macOS Sierra, you can use the [built-in feature](https://support.apple.com/en-us/HT207513) by Apple instead
 
 #### 35. [Dropzone](https://aptonic.com) 
 - a quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a [preset number of folders](http://i.imgur.com/3nWK4b5.png) that I made quickly as well as going to them in an instant) (a great little utility)
@@ -157,18 +139,9 @@
 #### 36. [Popclip](https://pilotmoon.com/popclip/) 
 - another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how [it looks](http://i.imgur.com/6YNy4Uw.png) for me
 
-#### 37. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) 
-- a great menu bar tool that shows me how much time is left until the next event in my calendar
-- it has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts
-
-
 #### 38. [Marked](http://marked2app.com) 
 - if I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found 
 	- it also features live updating and quite a lot of very powerful customisation features
-
-#### 39. [Xcello](http://lingsdesigns.com/xccello/) 
-
-- big fan of [Trello](https://trello.com) as a tool for managing tasks within a team, this app is essentially a web wrapper over online Trello boards
 
 #### 40. [DaisyDisk](https://daisydiskapp.com) 
 - a great tool to quickly get a visual glance over what is taking up your disk space and where)
@@ -197,9 +170,6 @@
 - had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have really enjoyed using it for that task
 - has phenomenal suggestions, a great UI interface and live previewing the LaTeX code that you write.)
 
-#### 48. [Slack](https://slack.com) 
-- find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team
-
 #### 49. [Telegram](https://desktop.telegram.org/) 
 - really dislike [whatsapp](https://www.whatsapp.com) and I quite like Telegram
 - it has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application)
@@ -216,14 +186,8 @@
 #### 53. [GIF Brewery](http://gifbrewery.com) 
 - allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be
 
-#### 54. [Noizio](http://noiz.io/) 
-- rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus
-
 #### 55. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
 - a really great colour picker that is quite often getting updated
-
-#### 56. [Paw](https://paw.cloud) 
-- a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
 #### 58. [IINA](https://github.com/lhc70000/iina)
 - open source alternative to VLC built specifically for macOS
@@ -263,8 +227,6 @@
 - I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system
 
 <h1 align="center">Browser 🌐</h1>
-
-My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. 
 
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
 
