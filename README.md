@@ -1,21 +1,5 @@
-<h1 align="center">My wonderful world of macOS 💻 </h1>
-
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/nikitavoloboev/my-mac-os/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
 
 <h1 align="center">Applications</h1>
-
-<a align="center" href="https://github.com/learn-anything/macos-apps">
-    <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png"></a>
-
-
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
 #### 1. [Alfred](https://www.alfredapp.com/) 
 
